@@ -1,0 +1,10 @@
+WHAT'S IN THIS VERSION:
+- Clean code
+- ".exe" file to start the game
+- Movement (player and enemis)
+- Score
+- Collision
+- Speed for level (player and enemis)
+- Game over
+- Game pause
+- Command illustration
